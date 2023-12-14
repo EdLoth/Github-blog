@@ -6,7 +6,7 @@ We built a Simple Github Blog, to train our fundamentals about React and to test
 
 It is totally responsive, so try to access in your phone too
 
-### 👉 Link to Access: https://github-blog-hazel.vercel.app/
+### 👉 Link to Access: [GITHUB-BLOG](https://github-blog-sigma.vercel.app/)
 
 ## ▶ How to start project
 
